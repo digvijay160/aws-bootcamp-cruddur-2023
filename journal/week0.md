@@ -31,4 +31,4 @@ I used Lucid Charts to create a logical diagram for our appliaction.
 
 Here's the diagram and the link to [Lucid Chart Document](https://lucid.app/lucidchart/da419696-ad18-407a-b949-016cc2433753/edit?viewport_loc=-1489%2C839%2C2731%2C1139%2C0_0&invitationId=inv_7479a31a-9b5e-4dea-9261-031a10d019db)
 
-![Logical Diagram for Application](journal/assets/Cruddur-Logical-Diagram.png)
+![Logical Diagram for Application](assets/Cruddur-Logical-Diagram.png)
